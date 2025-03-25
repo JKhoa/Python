@@ -1,0 +1,5 @@
+value=input("Nhập dãy số: ")
+list=value.split(",")
+tuple=tuple(list) 
+print('List: ',list)
+print('Tuple: ',tuple)
